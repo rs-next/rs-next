@@ -22,6 +22,11 @@
 </div>
 
 <h3>📖 EXPERIENCE IN SCHOOL</h3>
-
 [2023. 08 ~ 2023. 11] 캠핑장 커뮤니티 웹 애플리케이션 서비스 개발 <br>
 [2024. 03 ~ 2024. 06] 기숙사 심사 자동화 시스템 웹 서비스 개발 
+
+<h3>✉️ CONTACTS </h3>
+
+tistory : <a href="https://rs-next.tistory.com/">https://rs-next.tistory.com/</a><br>
+email : rs_next@naver.com<br>
+github : <a href="https://github.com/rs-next">https://github.com/rs-next</a><br>
