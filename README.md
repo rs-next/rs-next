@@ -1,10 +1,11 @@
-<div align="center">
+
   <h2><b>개발에 완성은 없다</b></h2>
   <br>
   안녕하세요. 신입 개발자 안승현입니다. 😄
-</div>
-<div align="center">
+
+
   <h3>📚 STACKS</h3>
+  <div display=inline>
   <img src="https://img.shields.io/badge/Framework-%23121011?style=for-the-badge"> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><br>
 
@@ -18,5 +19,5 @@
 <img src="https://img.shields.io/badge/database-%23121011?style=for-the-badge"> 
  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">   
-
 </div>
+
