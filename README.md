@@ -21,3 +21,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">   
 </div>
 
+<h3>📖 EXPERIENCE IN SCHOOL</h3>
+
+[2023. 08 ~ 2023. 11] 캠핑장 커뮤니티 웹 애플리케이션 서비스 개발 <br>
+[2024. 03 ~ 2024. 06] 기숙사 심사 자동화 시스템 웹 서비스 개발 
